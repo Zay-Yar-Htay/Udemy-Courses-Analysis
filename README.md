@@ -7,7 +7,7 @@
 2. [Tools](#tools)
 3. [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 4. [Exploratory Data Analysis](#exploratory-data-analysis)
-5. [Vizualization](#vizualization)
+5. [Visualization](#visualization)
 6. [Key Findings](#key-findings)
 7. [Recommendation](#recommendation)
 
@@ -27,7 +27,7 @@ This is an onyx data challenge dataset based on Udemy courses data which contain
 2. Which subject, course and level generated the most revenue and subscribers?
 3. What is the ratio of reviews to subscribers over paid courses and free courses?
 
-## Vizualization
+## Visualization
 ![Udemy Courses Analysis Report](https://github.com/Zay-Yar-Htay/Udemy-Courses-Analysis/assets/157587547/a3ef9619-48d3-45a6-a941-7978075e5b28)
 
 ## Key Findings

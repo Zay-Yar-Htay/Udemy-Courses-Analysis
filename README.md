@@ -1,4 +1,3 @@
-# Onyx Data DNA - Dataset Challenge
 # Udemy-Courses-Analysis
 
 ## Table Of Contents

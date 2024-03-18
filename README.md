@@ -27,7 +27,7 @@ This is an onyx data challenge dataset based on Udemy courses data which contain
 3. What is the ratio of reviews to subscribers over paid courses and free courses?
 
 ## Visualization
-![Udemy Courses Analysis Report](https://github.com/Zay-Yar-Htay/Udemy-Courses-Analysis/assets/157587547/a3ef9619-48d3-45a6-a941-7978075e5b28)
+![Udemy Courses Analysis Report](https://github.com/Zay-Yar-Htay/Udemy-Courses-Analysis/assets/157587547/f4c47a3e-9a97-42ea-a4f5-e4d119d0d8f5)
 
 ## Key Findings
 1. Across all subjects, there is a positive correlation between the number of subscribers and the revenue generated. 2015 has the highest revenue with over $300M and subscribers with over 3M and 2011 has the lowest.
